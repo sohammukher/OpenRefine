@@ -59,8 +59,11 @@ public class ToNumberBenchmark {
 
         public ToNumber f;
         String[] args = new String[1];
-
+        int i = 0;
+        i++;
         
+
+
         String testData;
         String testDataInt;
         Random rnd = new Random();
